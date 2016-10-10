@@ -150,7 +150,7 @@ import:
   - '...'
   - go-tipb
 - package: github.com/pingcap/kvproto
-  version: a31be82f6173279a868491878a99d67c981b03a1
+  version: 1abfc7c48393538a7e273b681249b7420c1abfe8
   subpackages:
   - '...'
 - package: github.com/gogo/protobuf

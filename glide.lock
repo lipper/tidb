@@ -1,5 +1,5 @@
-hash: 124e10f25283db5afe7bc2321b0e841b1b1ce48561d05eec8c2559c0f6f10b1d
-updated: 2016-10-08T11:38:01.253085031+08:00
+hash: 8b809da743791a644a6d8bb73ac2a4cfaa7c94df26b3b2c2e6f7563a1217a556
+updated: 2016-10-10T14:05:21.725164915+08:00
 imports:
 - name: bitbucket.org/ww/goautoneg
   version: 75cd24fc2f2c2a2088577d12123ddee5f54e0675
@@ -103,7 +103,7 @@ imports:
   - leveldb/table
   - leveldb/util
 - name: github.com/pingcap/kvproto
-  version: a31be82f6173279a868491878a99d67c981b03a1
+  version: 1abfc7c48393538a7e273b681249b7420c1abfe8
   subpackages:
   - '...'
   - pkg/coprocessor
@@ -124,7 +124,7 @@ imports:
   - pkg/metrics
   - pkg/rpcutil
 - name: github.com/pingcap/tipb
-  version: 3931be3ee2fa836542a350824dafd681c15d0d91
+  version: 29c61e269421d62b8e7dabca58ebd00e84b06dc2
   subpackages:
   - '...'
   - go-binlog
